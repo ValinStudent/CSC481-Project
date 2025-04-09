@@ -1,2 +1,2 @@
-# CSC482-Project
+# CSC481-Project
 Genetic Algorithms vs Particle Swarm Optimization
